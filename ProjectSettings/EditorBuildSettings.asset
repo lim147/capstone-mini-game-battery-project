@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2ec52f7ee2627194c94f58bad8f8b001
+  - enabled: 1
+    path: Assets/Scenes/InfoScene.unity
+    guid: 720578573f7b897439df38db66a51f9d
+  - enabled: 1
+    path: Assets/Scenes/QuestionnaireScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 7e3bbf4aec54c43078907c6ae846037d
+  - enabled: 1
+    path: Assets/Scenes/Games/CatchTheThief/CatchTheThiefInstructions.unity
+    guid: 9fc22bdc7f195594d88754cf639715ce
+  - enabled: 1
+    path: Assets/Scenes/Games/CatchTheThief/CatchTheThiefScene.unity
+    guid: df5f3a117a078a34795a75fa06f45725
+  - enabled: 1
+    path: Assets/Scenes/Games/Squares/SquaresInstructions.unity
+    guid: 9c6f61f2c6d277d4f9a6cbbbc6a35a3d
+  - enabled: 1
+    path: Assets/Scenes/Games/Squares/SquaresScene.unity
+    guid: eda5698cd6f67354e88c2c1f0d0c9499
+  - enabled: 1
+    path: Assets/Scenes/Games/Balloons/BalloonsInstructions.unity
+    guid: 17affefb5b512174298f6fc11e49d769
+  - enabled: 1
+    path: Assets/Scenes/Games/Balloons/BalloonsScene.unity
+    guid: 2806e740d2a3242c3b5fa7af42958856
+  - enabled: 1
+    path: Assets/Scenes/Games/ImageHit/ImageHitInstructions.unity
+    guid: 0693d99cd6343974499dda0bc258a0a9
+  - enabled: 1
+    path: Assets/Scenes/Games/ImageHit/ImageHitScene.unity
+    guid: 5dc7fc525bd8745458cbf0c2e0c9caed
+  - enabled: 1
+    path: Assets/Scenes/Games/Ball/CatchTheBallInstructions.unity
+    guid: b8fb745155511a041b3d1066caead11d
+  - enabled: 1
+    path: Assets/Scenes/Games/Ball/CatchTheBall.unity
+    guid: e5f10f58ca007405885aae7ee475c292
+  - enabled: 1
+    path: Assets/Scenes/Results/ResultScene.unity
+    guid: 067353d929a7f478897b16c4c0abe705
+  - enabled: 1
+    path: Assets/Scenes/Results/InhibitionResultScene.unity
+    guid: e52097e9cbb721845a0658bbdad843d9
+  - enabled: 1
+    path: Assets/Scenes/Results/ORResultScene.unity
+    guid: 2d825887418849047a1b80031ffa012e
+  - enabled: 1
+    path: Assets/Scenes/Results/PointingResultScene.unity
+    guid: d9996ee53d6cf0042b1a5a1b6a2c761a
+  - enabled: 1
+    path: Assets/Scenes/Results/SVResultScene.unity
+    guid: d949908062aff2d4395f91c136fa836c
+  - enabled: 1
+    path: Assets/Scenes/Results/TTCResultScene.unity
+    guid: 44338201a69ca87439f6a8259d806546
+  - enabled: 1
+    path: Assets/Scenes/Results/VSResultScene.unity
+    guid: db443c921d5fbc743a21a4948ecd6e6d
+  - enabled: 1
+    path: Assets/Scenes/Games/Ball/SaveOneBallInstructions.unity
+    guid: 2489a07975aae455eb712a2ece9b9bf4
+  - enabled: 1
+    path: Assets/Scenes/Games/Ball/SaveOneBall.unity
+    guid: 09f9a4341c02f4f189b93a102f7722b8
+  - enabled: 1
+    path: Assets/Scenes/Games/Ball/JudgeTheBallInstructions.unity
+    guid: 2dac5413113c34a11895eec02f8e84cf
+  - enabled: 1
+    path: Assets/Scenes/Games/Ball/JudgeTheBall.unity
+    guid: e1e96f2866a3f46e79248501a7eaba58
+  - enabled: 1
+    path: Assets/Scenes/NoKeyboardScene.unity
+    guid: a35d2cd1501ce4066a72f4fb03d569df
+  m_configObjects: {}

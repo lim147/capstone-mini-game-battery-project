@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2021-01-03_17-11-50" tag="">
+  <assembly name="Assembly-CSharp-Editor">
+    <class name="BuildCommand" coveredlines="0" coverablelines="175" totallines="283" coveredbranches="0" totalbranches="0" />
+    <class name="Test.EditModeExampleTests" coveredlines="7" coverablelines="7" totallines="28" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>

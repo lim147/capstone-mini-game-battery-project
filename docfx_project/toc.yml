@@ -1,0 +1,9 @@
+- name: API Documentation
+  href: api/
+  homepage: api/index.md
+- name: SRS Document
+  href: https://gitlab.cas.mcmaster.ca/bucklj4/capstone-mini-game-battery-project/-/wikis/Software-Requirements-Specification
+- name: Design Document
+  href: https://gitlab.cas.mcmaster.ca/bucklj4/capstone-mini-game-battery-project/-/wikis/Architecture-And-Module-Design
+- name: Test Case Report
+  href: https://ludus-mini-game-battery.surge.sh/tests/
