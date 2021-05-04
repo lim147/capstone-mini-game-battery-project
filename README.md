@@ -1,6 +1,8 @@
 # Overview
 This university capstone project is a web application that is a suite of seven mini-games to measure the cognitive and motor abilities of players.
 
+Which this [video](https://vimeo.com/532904149) to quickly get a general idear of our project.
+
 <img width="750" alt="Screen Shot 2021-05-04 at 2 05 11 PM" src="https://user-images.githubusercontent.com/35234798/117049108-c1902300-ace1-11eb-962d-609510732a80.png">
 
 <img width="748" alt="Screen Shot 2021-05-04 at 2 05 41 PM" src="https://user-images.githubusercontent.com/35234798/117049165-d2409900-ace1-11eb-91e7-b564f81f7f7d.png">
