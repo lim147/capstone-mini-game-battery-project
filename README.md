@@ -1,7 +1,18 @@
+# Overview
+This university capstone project is a web application that is a suite of seven mini-games to measure the cognitive and motor abilities of players.
+
+<img width="750" alt="Screen Shot 2021-05-04 at 2 05 11 PM" src="https://user-images.githubusercontent.com/35234798/117049108-c1902300-ace1-11eb-962d-609510732a80.png">
+
+<img width="748" alt="Screen Shot 2021-05-04 at 2 05 41 PM" src="https://user-images.githubusercontent.com/35234798/117049165-d2409900-ace1-11eb-91e7-b564f81f7f7d.png">
+
+
+
 # About
 This repository houses the files used for the G-ScalE Mini-Game Battery Project, a capstone project under development by Team Ludus.
 
-The implementation of `Balloons`,  `Squares`, `Catch The Thief`, `Image Hit`, and `Ball` (including `Catch The Ball`, `Save One Ball`, and `Judge The Ball`) mini-games have been completed.
+The implementation of all mini-games `Balloons`,  `Squares`, `Catch The Thief`, `Image Hit`, and `Ball` (including `Catch The Ball`, `Save One Ball`, and `Judge The Ball`) have been completed.
+
+<img width="590" alt="Screen Shot 2021-05-04 at 2 07 28 PM" src="https://user-images.githubusercontent.com/35234798/117049405-1338ad80-ace2-11eb-9fcd-d8d38a2b9ac4.png">
 
 
 # Releases
@@ -255,5 +266,6 @@ The score will be calculated based on:
 ### Judge The Ball
 The score will be calculated based on:
 - The time when the player moves a slider, compared with the estimated time when the player’s ball arrives
+
 
 
